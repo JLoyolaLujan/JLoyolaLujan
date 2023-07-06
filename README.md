@@ -1,5 +1,8 @@
-### Hi there 👋
+# HEY 👋
+how's it going c:
+Welcome to my github account.
 
+- ⚡ Fun fact: I secretly love JavaScript
 <!--
 **JLoyolaLujan/JLoyolaLujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
