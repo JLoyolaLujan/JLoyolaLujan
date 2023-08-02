@@ -3,6 +3,7 @@ how's it going c:
 Welcome to my github account.
 
 - ⚡ Fun fact: I secretly love JavaScript
+- 🌱 I’m currently learning Python <3 
 <!--
 **JLoyolaLujan/JLoyolaLujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
